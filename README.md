@@ -1,6 +1,6 @@
 # DEPI4
 Motion Graphics Project
- # Project name
+ # Between Stations
    ### _[Project Tagline / Short Description]_
  ## Team Members
  * Ammar Abdel-salam Bardawely
