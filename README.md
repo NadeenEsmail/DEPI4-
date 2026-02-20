@@ -8,5 +8,5 @@ Motion Graphics Project
 * Nada Adel Abu Bakr Azzam
 * Nadeen Esmail Farouk El-Halawany
 * Shahd
-
- 
+##  Instructor
+ **[John Youssef]**
