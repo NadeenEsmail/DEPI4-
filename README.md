@@ -8,16 +8,22 @@ Motion Graphics Project
 * Nada Adel Abu Bakr Azzam
 * Nadeen Esmail Farouk El-Halawany
 * Shahd Mohammed Ebreem Dewan
-
-  
+    
 ##  Instructor
 **[John Youssef]**
  
 ##  Project Overview
-
+[This project explores the daily struggle with distraction and overthinking in a fast-paced world.
+Through relatable storytelling and realistic scenarios, the project aims to reflect the silent chaos happening inside the mind — the loop of thoughts, the fear of making the wrong decision, and the pressure to always do more.]
 
 ## Project Objectives
-
+- [Raise awareness about the impact of distraction and overthinking on mental health.
+]  
+- [Encourage mindful focus and intentional living.
+]  
+- [Help the audience feel understood and less alone in their internal struggles.
+]  
+- [Inspire action toward building healthier habits and stronger self-discipline.]  
 
 ##  Project Scope
 - [Story development & script writing]  
@@ -38,7 +44,7 @@ Storyboard
 Presentation slides]
 
 ---
-## Project Plan (5 Weeks)
+## Project Plan (6 Weeks)
 ###  Week 1 — [Concept & Script]
 - [Define core message
 
@@ -62,9 +68,10 @@ Sound design]
 ### Week 5 — [Finalization]
 - [Editing & polishing
 
-Rendering
+Rendering] 
+### Week 6 — [Presentation preparation]
 
-Presentation preparation]  
+ 
 ---
 ## Tools (Proposed)
 - [Adobe After Effects]  
