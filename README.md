@@ -9,16 +9,16 @@ Motion Graphics Project
 * Nadeen Esmail Farouk El-Halawany
 * Shahd Mohammed Ebreem Dewan
 
-  ---
+  
 ##  Instructor
 **[John Youssef]**
- ---
+ 
 ##  Project Overview
 
----
+
 ## Project Objectives
 
----
+
 ##  Project Scope
 - [Story development & script writing]  
 - [Character design]  
