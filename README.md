@@ -25,7 +25,7 @@ Motion Graphics Project
 - [Scene design (symbolic mental world)]  
 - [Animation & motion graphics]  
 - [Sound design & final editing]
-- ---
+
   **Final Deliverable:** [A 2–4 minute animated short film including:
 
 Final rendered video
