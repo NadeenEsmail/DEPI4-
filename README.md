@@ -1,7 +1,6 @@
-# DEPI4
-Motion Graphics Project
  # Between Stations
-   ### _[Project Tagline / Short Description]_
+ ### _[Project Tagline / Short Description]_
+  [“Caught in thoughts, lost in the noise.”]  
  ## Team Members
  * Ammar Abdel-salam Bardawely
 * Mina Elkes Ibrahim Gohary
