@@ -35,8 +35,8 @@ Project files (After Effects / Illustrator / etc.)
 Script document
 
 Storyboard
-
 Presentation slides]
+
 ---
 ## Project Plan (5 Weeks)
 ###  Week 1 — [Concept & Script]
