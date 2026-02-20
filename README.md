@@ -1,7 +1,7 @@
 # DEPI4
 Motion Graphics Project
  # Project name
- - [Objective ]  
+   ### _[Project Tagline / Short Description]_
  ## Team Members
  * Ammar Abdel-salam Bardawely
 * Mina Elkes Ibrahim Gohary
