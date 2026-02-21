@@ -1,5 +1,5 @@
  # ضجيج صامت | Silent Noise 
- # or # Emergency stop | توقف اضطراري
+ # or Emergency stop | توقف اضطراري
  ### _[Project Tagline / Short Description]_
   [“Caught in thoughts, lost in the noise.”]  
  ## Team Members
