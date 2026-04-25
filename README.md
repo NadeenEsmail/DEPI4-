@@ -1,6 +1,6 @@
  # ضجيج صامت | Silent Noise 
- ### _[Project Tagline / Short Description]_
-  [“Caught in thoughts, lost in the noise.”]  
+ ### _[شعار المشروع:]_
+  [“"عالق في الأفكار، تائه في الضجيج”]  
  ## Team Members
  * Ammar Abdel-salam Bardawely
 * Mina Elkes Ibrahim Gohary
