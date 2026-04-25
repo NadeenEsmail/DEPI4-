@@ -1,5 +1,7 @@
 <div dir="rtl">
- # ضجيج صامت | Silent Noise 
+
+ # ضجيج صامت 
+
  ### _[شعار المشروع:]_
   [“"عالق في الأفكار، تائه في الضجيج”]  
  
@@ -36,33 +38,39 @@
 * التوجيه نحو الحل: ​دعوة المشاهد لاستيعاب أن السلام يبدأ بالهدوء الداخلي، وأن أعقد الأزمات تبدأ حلولها بـ "إعادة ترتيب الأولويات.
   
  
+## نطاق العمل   
 
-##  Project Scope
-- [Story development & script writing]  
-- [Character design]  
-- [Scene design (symbolic mental world)]  
-- [Animation & motion graphics]  
-- [Sound design & final editing]
+* تطوير القصة وكتابة السيناريو.
+* تصميم الشخصيات.
+*  تصميم المشاهد.
+* التحريك والموشن جرافيك.
+* التصميم الصوتي والمونتاج النهائي.
 
-  **Final Deliverable:** [A 2–4 minute animated short film including:
+**المخرجات النهائية:** فيلم تحريكي قصير (2-4 دقائق) يتضمن:
 
-Final rendered video
+الفيديو النهائي   
 
-Project files (After Effects / Illustrator / etc.)
+ملفات المشروع (أفتر إفكتس / إليستريتور / إلخ...) 
 
-Script document
+نص السيناريو
 
-Storyboard
-Presentation slides]
+ستوري بورد 
 
+ملف العرض التقديمي
 ---
-## Project Plan (6 Weeks)
-###  Week 1 — [Concept & Script]
-- [Define core message
+## خطة العمل (6 أسابيع) 
 
-Write script
-
-Create storyboard]
+* **الأسبوع 1:** تحديد الرسالة الأساسية، كتابة السيناريو، ورسم الـ Storyboard.
+* **الأسبوع 2:** مرحلة التصميم (الشخصيات، البيئة، واختيار الألوان).
+* **الأسبوع 3:** مرحلة التحريك 1 (المشاهد الرئيسية والانتقالات).
+* **الأسبوع 4:** مرحلة التحريك 2 (إضافة التفاصيل والمؤثرات والصوت).
+* **الأسبوع 5:** اللمسات الأخيرة، المونتاج، واستخراج الفيديو (Rendering).
+* **الأسبوع 6:** تجهيز العرض التقديمي النهائي.
+###  الأسبوع الأول  — [الفكرة والسيناريو] 
+- تحديد الرسالة الأساسية
+- كتابة السيناريو
+- رسم ال Storyboard
+- 
 ### Week 2 — [Design Phase]
 - [Character design
 
