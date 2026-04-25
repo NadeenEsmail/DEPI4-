@@ -1,5 +1,4 @@
  # ضجيج صامت | Silent Noise 
- # or Emergency stop | توقف اضطراري
  ### _[Project Tagline / Short Description]_
   [“Caught in thoughts, lost in the noise.”]  
  ## Team Members
@@ -12,18 +11,26 @@
 ##  Instructor
 **[John Youssef]**
  
-##  Project Overview
-[This project explores the daily struggle with distraction and overthinking in a fast-paced world.
-Through relatable storytelling and realistic scenarios, the project aims to reflect the silent chaos happening inside the mind — the loop of thoughts, the fear of making the wrong decision, and the pressure to always do more.]
+<div dir="rtl">
 
-## Project Objectives
-- [Raise awareness about the impact of distraction and overthinking on mental health.
-]  
-- [Encourage mindful focus and intentional living.
-]  
-- [Help the audience feel understood and less alone in their internal struggles.
-]  
-- [Inspire action toward building healthier habits and stronger self-discipline.]  
+### لماذا "ضجيج صامت"؟
+
+يُجسد الاسم الفجوة التي يعيشها الإنسان بين ظاهره وباطنه:
+الضجيج: يُمثل الصراعات الداخلية، تسارع الأفكار ، والضغط النفسي الناتج عن أعباء الحياة.
+الصامت: يُعبر عن العزلة الظاهرية؛ فبينما يبدو الشخص ساكناً في مكانه، يغرق وحده في فوضى ذهنية لا يراها أحد.
+الخلاصة: هو تعبير عن "الاحتراق النفسي" الذي ينهش الروح في صمت.
+
+### رسالة المشروع :
+​"العالم ليس بالسوء الذي ترسمه المخاوف؛ القلق ضجيج يسرق اللحظة، والترتيب هو الخطوة الأولى نحو السلام"
+
+### هدف المشروع:
+
+الهدف من هذا العمل هو تجسيد الأثر النفسي للضغوط المادية والاجتماعية وتحويل المشاعر المجردة كالتشتت والقلق إلى صورة بصرية ملموسة من خلال :
+* تجسيد التضخيم العقلي: ​تسليط الضوء على فكرة أن العقل قد يضخم الأمور لدرجة تجعلها تبدو كإعصار مدمر.
+* إبراز قيمة الدعم: إظهار قوة الدعم النفسي في تحويل الفوضى الي ترتيب وإعادة الاتزان النفسي.
+* التوجيه نحو الحل: ​دعوة المشاهد لاستيعاب أن السلام يبدأ بالهدوء الداخلي، وأن أعقد الأزمات تبدأ حلولها بـ "إعادة ترتيب الأولويات.
+  
+ 
 
 ##  Project Scope
 - [Story development & script writing]  
