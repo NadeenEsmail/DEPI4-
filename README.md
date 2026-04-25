@@ -1,17 +1,18 @@
+<div dir="rtl">
  # ضجيج صامت | Silent Noise 
  ### _[شعار المشروع:]_
   [“"عالق في الأفكار، تائه في الضجيج”]  
- ## Team Members
- * Ammar Abdel-salam Bardawely
-* Mina Elkes Ibrahim Gohary
-* Nada Adel Abu Bakr Azzam
-* Nadeen Esmail Farouk El-Halawany
-* Shahd Mohammed Ebreem Dewan
-    
-##  Instructor
-**[John Youssef]**
  
-<div dir="rtl">
+ ## أعضاء الفريق
+ * عمار عبد السلام برداويلي
+* مينا القس إبراهيم جوهري
+* ندى عادل أبو بكر عزام
+* نادين إسماعيل فاروق الحلواني
+* شهد محمد إبراهيم ديوان
+    
+##  تحت إشراف
+**[م/ جون يوسف]**
+ 
 
 ### لماذا "ضجيج صامت"؟
 
