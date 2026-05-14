@@ -91,9 +91,12 @@
 - [ Adobe Premiere Pro]
 - [Adobe Audition]  
 - [AI  tools (optional)]
+
+
   ## لينك المشروع : https://drive.google.com/drive/folders/1HgVF3oFOz4LKcEADOZfWkzcEnBBVUSeS?usp=sharing 
 
 
+  ## لينك البريزينتيشن : https://canva.link/bsut2ds8u1656j9 
 
 
 
